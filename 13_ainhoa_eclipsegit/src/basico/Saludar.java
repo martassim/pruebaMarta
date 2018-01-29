@@ -5,7 +5,7 @@ public class Saludar {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hola soy Ainhoa y esto es una prueba");
+		System.out.println("Hola soy Ainhoa y esto esta modificado");
 
 	}
 
